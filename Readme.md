@@ -1,4 +1,4 @@
-This is an augmented version of https://github.com/timoxley/functional-javascript-workshop, with additional exercises to provide a shallower learning curve.
+This is an augmented version of [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop), with additional exercises to provide a shallower learning curve.
 
 # Functional Javascript Workshop
 
