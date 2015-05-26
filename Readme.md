@@ -1,3 +1,7 @@
+NOTE: This is an augmented version of https://github.com/timoxley/functional-javascript-workshop. We have added additional exercises to provided a shallower learning curve.
+
+Oringinal readme text below:
+
 # Functional Javascript Workshop
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodeschool/discussions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
