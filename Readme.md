@@ -1,8 +1,6 @@
-NOTE: This is an augmented version of https://github.com/timoxley/functional-javascript-workshop. We have added additional exercises to provided a shallower learning curve.
+NOTE: This is an augmented version of [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop), with additional exercises to provide a shallower learning curve.
 
-Oringinal readme text below:
-
-# Functional Javascript Workshop
+# Functional Javascript RebootU
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodeschool/discussions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <img alt="NodeSchool Discussions" src="https://f.cloud.github.com/assets/43438/1368315/63919ad8-3997-11e3-909e-8193f5a94b59.png" align="right">
@@ -10,12 +8,6 @@ Oringinal readme text below:
 ### Teaching fundamental functional programming features of Javascript.
 
 #### No libraries required (i.e. no underscore), just ES5.
-
-<a href="https://nodei.co/npm/functional-javascript-workshop/" ><img src="https://nodei.co/npm/functional-javascript-workshop.png?downloads=true&stars=true"><br />
-<img src="https://nodei.co/npm-dl/functional-javascript-workshop.png?months=12">
-</a>
-
-
 
 [![Gittip](http://img.shields.io/gittip/timoxley.png)](https://www.gittip.com/timoxley/)
 ## Mission
@@ -31,7 +23,7 @@ The goal of this workshop is to create realistic problems that can be solved usi
 ## Installation & Update
 
 ```
-$ npm install -g functional-javascript-workshop@latest
+$ npm install -g functional-javascript-rebootu@latest
 ```
 
 Some npm installations require use of `sudo` in the above command. Recommend to instead [reinstall node/npm so you don't need sudo](https://gist.github.com/isaacs/579814).
@@ -40,11 +32,11 @@ Some npm installations require use of `sudo` in the above command. Recommend to 
 
 #### 1. Selecting a problem to work on
 
-Once the workshop is installed, run `functional-javascript-workshop` to print a menu
+Once the workshop is installed, run `functional-javascript-rebootu` to print a menu
 where you can select a problem to work on.
 
 ```
-$ functional-javascript-workshop
+$ functional-javascript-rebootu
 ```
 
 Problems are listed in rough order of difficulty. You are advised to complete them in order, as later problems
@@ -63,7 +55,7 @@ Use the workshop's `run` command to point the workshop at your solution file. Yo
 and passed the problem input. This usually won't perform any validation, it will only show the program output.
 
 ```
-$ functional-javascript-workshop run mysolution.js
+$ functional-javascript-rebootu run mysolution.js
 ```
  
 #### 4. Verifying your solution
@@ -72,7 +64,7 @@ Your solution will be verified against the output of the 'official' solution.
 If all of the output matches, then you have successfully solved the problem!
 
 ```
-$ functional-javascript-workshop verify mysolution.js
+$ functional-javascript-rebootu verify mysolution.js
 ```
 
 ## Stuck?
