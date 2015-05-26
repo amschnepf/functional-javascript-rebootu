@@ -4,8 +4,7 @@
   "description": "The basics of functional programming in JavaScript. No libraries required.",
   "main": "index.js",
   "bin": {
-    "functional-javascript": "functional-javascript.js",
-    "functional-javascript-workshop": "functional-javascript.js"
+    "functional-javascript-rebootu": "functional-javascript-rebootu.js"
   },
   "scripts": {},
   "keywords": [
