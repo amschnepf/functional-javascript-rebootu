@@ -67,5 +67,5 @@ function squareRoots(numbers) {
 }
 
 // include this line so the program can test the correctness of your solution
-module.exports = generateSlogans;
+module.exports = squareRoots;
 ```
