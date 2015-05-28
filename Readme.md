@@ -1,4 +1,4 @@
-NOTE: This is an augmented version of [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop), with additional exercises to provide a shallower learning curve.
+NOTE: This is an augmented version of [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop), with additional stepping-stone exercises and explanations to provide a shallower learning curve.
 
 # Functional Javascript RebootU
 
